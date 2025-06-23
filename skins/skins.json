@@ -1,0 +1,1222 @@
+{
+    "52000000": {
+        "name": "BarbarianKingDefault",
+        "rdate": ""
+    },
+    "52000001": {
+        "name": "BarbarianKingGladiator",
+        "rdate": ""
+    },
+    "52000002": {
+        "name": "ArcherQueenDefault",
+        "rdate": ""
+    },
+    "52000003": {
+        "name": "GrandWardenDefault",
+        "rdate": ""
+    },
+    "52000004": {
+        "name": "PekkaKing",
+        "rdate": ""
+    },
+    "52000005": {
+        "name": "SkeletonKing",
+        "rdate": ""
+    },
+    "52000006": {
+        "name": "JollyKing",
+        "rdate": ""
+    },
+    "52000007": {
+        "name": "PrimalKing",
+        "rdate": ""
+    },
+    "52000008": {
+        "name": "ClockworkKing",
+        "rdate": ""
+    },
+    "52000009": {
+        "name": "PartyKing",
+        "rdate": ""
+    },
+    "52000010": {
+        "name": "ChampionKing",
+        "rdate": ""
+    },
+    "52000011": {
+        "name": "PirateKing",
+        "rdate": ""
+    },
+    "52000012": {
+        "name": "GladiatorQueen",
+        "rdate": ""
+    },
+    "52000013": {
+        "name": "ValkyrieQueen",
+        "rdate": ""
+    },
+    "52000014": {
+        "name": "AutumnQueen",
+        "rdate": ""
+    },
+    "52000015": {
+        "name": "IceQueen",
+        "rdate": ""
+    },
+    "52000016": {
+        "name": "WarriorQueen",
+        "rdate": ""
+    },
+    "52000017": {
+        "name": "PrimalQueen",
+        "rdate": ""
+    },
+    "52000018": {
+        "name": "ClockworkQueen",
+        "rdate": ""
+    },
+    "52000019": {
+        "name": "PirateQueen",
+        "rdate": ""
+    },
+    "52000020": {
+        "name": "PartyWarden",
+        "rdate": ""
+    },
+    "52000021": {
+        "name": "PrimalWarden",
+        "rdate": ""
+    },
+    "52000022": {
+        "name": "ClockworkWarden",
+        "rdate": ""
+    },
+    "52000023": {
+        "name": "GladiatorWarden",
+        "rdate": ""
+    },
+    "52000024": {
+        "name": "PirateWarden",
+        "rdate": ""
+    },
+    "52000025": {
+        "name": "NorthWarden",
+        "rdate": ""
+    },
+    "52000026": {
+        "name": "JungleWarden",
+        "rdate": ""
+    },
+    "52000027": {
+        "name": "MasterWarden",
+        "rdate": ""
+    },
+    "52000028": {
+        "name": "WarriorPrincessDefault",
+        "rdate": ""
+    },
+    "52000029": {
+        "name": "WinterChampion",
+        "rdate": ""
+    },
+    "52000030": {
+        "name": "RogueChampion",
+        "rdate": ""
+    },
+    "52000031": {
+        "name": "JungleChampion",
+        "rdate": ""
+    },
+    "52000032": {
+        "name": "GladiatorChampion",
+        "rdate": ""
+    },
+    "52000033": {
+        "name": "ShadowChampion",
+        "rdate": ""
+    },
+    "52000034": {
+        "name": "PrimalChampion",
+        "rdate": ""
+    },
+    "52000035": {
+        "name": "SummerChampion",
+        "rdate": ""
+    },
+    "52000036": {
+        "name": "PixelChampion",
+        "rdate": ""
+    },
+    "52000037": {
+        "name": "PartyChampion",
+        "rdate": ""
+    },
+    "52000038": {
+        "name": "TH15Champion",
+        "rdate": ""
+    },
+    "52000039": {
+        "name": "PirateChampion",
+        "rdate": ""
+    },
+    "52000040": {
+        "name": "JollyChampion",
+        "rdate": ""
+    },
+    "52000041": {
+        "name": "WarriorChampion",
+        "rdate": ""
+    },
+    "52000042": {
+        "name": "PainterChampion",
+        "rdate": ""
+    },
+    "52000043": {
+        "name": "DarkAgesChampion",
+        "rdate": ""
+    },
+    "52000044": {
+        "name": "GhostChampion",
+        "rdate": ""
+    },
+    "52000045": {
+        "name": "WarriorKing",
+        "rdate": ""
+    },
+    "52000046": {
+        "name": "RogueKing",
+        "rdate": ""
+    },
+    "52000047": {
+        "name": "SavageKing",
+        "rdate": ""
+    },
+    "52000048": {
+        "name": "JungleKing",
+        "rdate": ""
+    },
+    "52000049": {
+        "name": "AnniversaryKing",
+        "rdate": ""
+    },
+    "52000050": {
+        "name": "GolemKing",
+        "rdate": ""
+    },
+    "52000051": {
+        "name": "IceKing",
+        "rdate": ""
+    },
+    "52000052": {
+        "name": "TigerKing",
+        "rdate": ""
+    },
+    "52000053": {
+        "name": "ShadowKing",
+        "rdate": ""
+    },
+    "52000054": {
+        "name": "SummerKing",
+        "rdate": ""
+    },
+    "52000055": {
+        "name": "PixelKing",
+        "rdate": ""
+    },
+    "52000056": {
+        "name": "ClashFestKing",
+        "rdate": ""
+    },
+    "52000057": {
+        "name": "RogueQueen",
+        "rdate": ""
+    },
+    "52000058": {
+        "name": "JungleQueen",
+        "rdate": ""
+    },
+    "52000059": {
+        "name": "PartyQueen",
+        "rdate": ""
+    },
+    "52000060": {
+        "name": "ChampionQueen",
+        "rdate": ""
+    },
+    "52000061": {
+        "name": "ShadowQueen",
+        "rdate": ""
+    },
+    "52000062": {
+        "name": "MinerQueen",
+        "rdate": ""
+    },
+    "52000063": {
+        "name": "SummerQueen",
+        "rdate": ""
+    },
+    "52000064": {
+        "name": "PixelQueen",
+        "rdate": ""
+    },
+    "52000065": {
+        "name": "SpookyQueen",
+        "rdate": ""
+    },
+    "52000066": {
+        "name": "TH15Queen",
+        "rdate": ""
+    },
+    "52000067": {
+        "name": "JollyQueen",
+        "rdate": ""
+    },
+    "52000068": {
+        "name": "DarkAgesQueen",
+        "rdate": ""
+    },
+    "52000069": {
+        "name": "JollyWarden",
+        "rdate": ""
+    },
+    "52000070": {
+        "name": "WarriorWarden",
+        "rdate": ""
+    },
+    "52000071": {
+        "name": "ShadowWarden",
+        "rdate": ""
+    },
+    "52000072": {
+        "name": "SummerWarden",
+        "rdate": ""
+    },
+    "52000073": {
+        "name": "PixelWarden",
+        "rdate": ""
+    },
+    "52000074": {
+        "name": "ChampionWarden",
+        "rdate": ""
+    },
+    "52000075": {
+        "name": "TH15Warden",
+        "rdate": ""
+    },
+    "52000076": {
+        "name": "PainterWarden",
+        "rdate": ""
+    },
+    "52000077": {
+        "name": "DarkAgesWarden",
+        "rdate": ""
+    },
+    "52000078": {
+        "name": "GhostWarden",
+        "rdate": ""
+    },
+    "52000079": {
+        "name": "GoblinWarden",
+        "rdate": ""
+    },
+    "52000080": {
+        "name": "LeagueWarden",
+        "rdate": ""
+    },
+    "52000081": {
+        "name": "PetLassiDefault",
+        "rdate": ""
+    },
+    "52000082": {
+        "name": "PetYakDefault",
+        "rdate": ""
+    },
+    "52000083": {
+        "name": "PetEowlDefault",
+        "rdate": ""
+    },
+    "52000084": {
+        "name": "PetUnicornDefault",
+        "rdate": ""
+    },
+    "52000085": {
+        "name": "CapitalFlyingFortressDefault",
+        "rdate": ""
+    },
+    "52000086": {
+        "name": "CapitalMountainGolemDefault",
+        "rdate": ""
+    },
+    "52000087": {
+        "name": "TH15King",
+        "rdate": ""
+    },
+    "52000088": {
+        "name": "DarkAgesKing",
+        "rdate": ""
+    },
+    "52000089": {
+        "name": "PainterKing",
+        "rdate": ""
+    },
+    "52000090": {
+        "name": "BeastKing",
+        "rdate": ""
+    },
+    "52000091": {
+        "name": "LeagueKing",
+        "rdate": ""
+    },
+    "52000092": {
+        "name": "GoblinKing",
+        "rdate": ""
+    },
+    "52000093": {
+        "name": "ClashiversaryKing",
+        "rdate": ""
+    },
+    "52000094": {
+        "name": "GingerbreadKing",
+        "rdate": ""
+    },
+    "52000095": {
+        "name": "GhostKing",
+        "rdate": ""
+    },
+    "52000096": {
+        "name": "ChessKing",
+        "rdate": ""
+    },
+    "52000097": {
+        "name": "LunarQueen",
+        "rdate": ""
+    },
+    "52000098": {
+        "name": "PainterQueen",
+        "rdate": ""
+    },
+    "52000099": {
+        "name": "ValentinesQueen",
+        "rdate": ""
+    },
+    "52000100": {
+        "name": "GoblinQueen",
+        "rdate": ""
+    },
+    "52000101": {
+        "name": "GhostQueen",
+        "rdate": ""
+    },
+    "52000102": {
+        "name": "LeagueQueen",
+        "rdate": ""
+    },
+    "52000103": {
+        "name": "ClashiversaryQueen",
+        "rdate": ""
+    },
+    "52000104": {
+        "name": "GingerbreadQueen",
+        "rdate": ""
+    },
+    "52000105": {
+        "name": "ChessQueen",
+        "rdate": ""
+    },
+    "52000106": {
+        "name": "WinterQueen",
+        "rdate": ""
+    },
+    "52000107": {
+        "name": "PetFrostyDefault",
+        "rdate": ""
+    },
+    "52000108": {
+        "name": "PetPoisonIguanaDefault",
+        "rdate": ""
+    },
+    "52000109": {
+        "name": "PetPhoenixDefault",
+        "rdate": ""
+    },
+    "52000110": {
+        "name": "PetDiggyDefault",
+        "rdate": ""
+    },
+    "52000111": {
+        "name": "PetPhoenixEggDefault",
+        "rdate": ""
+    },
+    "52000112": {
+        "name": "LeagueChampion",
+        "rdate": ""
+    },
+    "52000113": {
+        "name": "GoblinChampion",
+        "rdate": ""
+    },
+    "52000114": {
+        "name": "ClashiversaryChampion",
+        "rdate": ""
+    },
+    "52000115": {
+        "name": "GingerbreadChampion",
+        "rdate": ""
+    },
+    "52000116": {
+        "name": "ChampionChampion",
+        "rdate": ""
+    },
+    "52000117": {
+        "name": "LNY24Champion",
+        "rdate": ""
+    },
+    "52000118": {
+        "name": "SpaceChampion",
+        "rdate": ""
+    },
+    "52000119": {
+        "name": "EgyptianChampion",
+        "rdate": ""
+    },
+    "52000120": {
+        "name": "FootballChampion",
+        "rdate": ""
+    },
+    "52000121": {
+        "name": "WildWestChampion",
+        "rdate": ""
+    },
+    "52000122": {
+        "name": "ClashiversaryWarden",
+        "rdate": ""
+    },
+    "52000123": {
+        "name": "GingerbreadWarden",
+        "rdate": ""
+    },
+    "52000124": {
+        "name": "LNY24Warden",
+        "rdate": ""
+    },
+    "52000125": {
+        "name": "SpaceWarden",
+        "rdate": ""
+    },
+    "52000126": {
+        "name": "EgyptianWarden",
+        "rdate": ""
+    },
+    "52000127": {
+        "name": "FootballWarden",
+        "rdate": ""
+    },
+    "52000128": {
+        "name": "WildWestWarden",
+        "rdate": ""
+    },
+    "52000129": {
+        "name": "ClashGamesWarden",
+        "rdate": ""
+    },
+    "52000130": {
+        "name": "AnimeWarden",
+        "rdate": ""
+    },
+    "52000131": {
+        "name": "GrandWarden030",
+        "rdate": ""
+    },
+    "52000132": {
+        "name": "LunarKing",
+        "rdate": ""
+    },
+    "52000133": {
+        "name": "WinterKing",
+        "rdate": ""
+    },
+    "52000134": {
+        "name": "EgyptianKing",
+        "rdate": ""
+    },
+    "52000135": {
+        "name": "SpaceKing",
+        "rdate": ""
+    },
+    "52000136": {
+        "name": "SquadKing",
+        "rdate": ""
+    },
+    "52000137": {
+        "name": "HaalandKing",
+        "rdate": ""
+    },
+    "52000138": {
+        "name": "FootballKing",
+        "rdate": ""
+    },
+    "52000139": {
+        "name": "WildWestKing",
+        "rdate": ""
+    },
+    "52000140": {
+        "name": "BuilderApprentice",
+        "rdate": ""
+    },
+    "52000141": {
+        "name": "ClashGamesKing",
+        "rdate": ""
+    },
+    "52000142": {
+        "name": "LNY24Queen",
+        "rdate": ""
+    },
+    "52000143": {
+        "name": "SpaceQueen",
+        "rdate": ""
+    },
+    "52000144": {
+        "name": "EgyptianQueen",
+        "rdate": ""
+    },
+    "52000145": {
+        "name": "FootballQueen",
+        "rdate": ""
+    },
+    "52000146": {
+        "name": "WildWestQueen",
+        "rdate": ""
+    },
+    "52000147": {
+        "name": "ClashGamesQueen",
+        "rdate": ""
+    },
+    "52000148": {
+        "name": "AnimeQueen",
+        "rdate": ""
+    },
+    "52000149": {
+        "name": "TTRPGQueen",
+        "rdate": ""
+    },
+    "52000150": {
+        "name": "ClashoweenQuen",
+        "rdate": ""
+    },
+    "52000151": {
+        "name": "TH17Queen",
+        "rdate": ""
+    },
+    "52000152": {
+        "name": "WarmachineDefault",
+        "rdate": ""
+    },
+    "52000153": {
+        "name": "ArmoredMachine",
+        "rdate": ""
+    },
+    "52000154": {
+        "name": "Warmachine002",
+        "rdate": ""
+    },
+    "52000155": {
+        "name": "Warmachine003",
+        "rdate": ""
+    },
+    "52000156": {
+        "name": "OfTheNorthMachine",
+        "rdate": ""
+    },
+    "52000157": {
+        "name": "Warmachine005",
+        "rdate": ""
+    },
+    "52000158": {
+        "name": "Warmachine006",
+        "rdate": ""
+    },
+    "52000159": {
+        "name": "Warmachine007",
+        "rdate": ""
+    },
+    "52000160": {
+        "name": "Warmachine008",
+        "rdate": ""
+    },
+    "52000161": {
+        "name": "Warmachine009",
+        "rdate": ""
+    },
+    "52000162": {
+        "name": "Warmachine010",
+        "rdate": ""
+    },
+    "52000163": {
+        "name": "BattleCopterDefault",
+        "rdate": ""
+    },
+    "52000164": {
+        "name": "BattleCopter001",
+        "rdate": ""
+    },
+    "52000165": {
+        "name": "BattleCopter002",
+        "rdate": ""
+    },
+    "52000166": {
+        "name": "PirateCopter",
+        "rdate": ""
+    },
+    "52000167": {
+        "name": "BattleCopter004",
+        "rdate": ""
+    },
+    "52000168": {
+        "name": "BattleCopter005",
+        "rdate": ""
+    },
+    "52000169": {
+        "name": "BattleCopter006",
+        "rdate": ""
+    },
+    "52000170": {
+        "name": "BattleCopter007",
+        "rdate": ""
+    },
+    "52000171": {
+        "name": "BattleCopter008",
+        "rdate": ""
+    },
+    "52000172": {
+        "name": "BattleCopter009",
+        "rdate": ""
+    },
+    "52000173": {
+        "name": "BattleCopter010",
+        "rdate": ""
+    },
+    "52000174": {
+        "name": "AnimeChampion",
+        "rdate": ""
+    },
+    "52000175": {
+        "name": "TTRPGChampion",
+        "rdate": ""
+    },
+    "52000176": {
+        "name": "IceChampion",
+        "rdate": ""
+    },
+    "52000177": {
+        "name": "LNY25Champion",
+        "rdate": ""
+    },
+    "52000178": {
+        "name": "MilitaryChampion",
+        "rdate": ""
+    },
+    "52000179": {
+        "name": "April25Champion",
+        "rdate": ""
+    },
+    "52000180": {
+        "name": "RoyalChampion033",
+        "rdate": ""
+    },
+    "52000181": {
+        "name": "RoyalChampion034",
+        "rdate": ""
+    },
+    "52000182": {
+        "name": "RoyalChampion035",
+        "rdate": ""
+    },
+    "52000183": {
+        "name": "RoyalChampion036",
+        "rdate": ""
+    },
+    "52000184": {
+        "name": "RoyalChampion037",
+        "rdate": ""
+    },
+    "52000185": {
+        "name": "RoyalChampion038",
+        "rdate": ""
+    },
+    "52000186": {
+        "name": "RoyalChampion039",
+        "rdate": ""
+    },
+    "52000187": {
+        "name": "RoyalChampion040",
+        "rdate": ""
+    },
+    "52000188": {
+        "name": "PetFennecDefault",
+        "rdate": ""
+    },
+    "52000189": {
+        "name": "RageJellyDefault",
+        "rdate": ""
+    },
+    "52000190": {
+        "name": "BuilderApprenticeMenu",
+        "rdate": ""
+    },
+    "52000191": {
+        "name": "AnimeKing",
+        "rdate": ""
+    },
+    "52000192": {
+        "name": "TTRPGKin",
+        "rdate": ""
+    },
+    "52000193": {
+        "name": "ClashoweenKing",
+        "rdate": ""
+    },
+    "52000194": {
+        "name": "TH17King",
+        "rdate": ""
+    },
+    "52000195": {
+        "name": "ClashmasKing",
+        "rdate": ""
+    },
+    "52000196": {
+        "name": "FireKing",
+        "rdate": ""
+    },
+    "52000197": {
+        "name": "LNY25King",
+        "rdate": ""
+    },
+    "52000198": {
+        "name": "MilitaryKing",
+        "rdate": ""
+    },
+    "52000199": {
+        "name": "April25King",
+        "rdate": ""
+    },
+    "52000200": {
+        "name": "BarbarianKing051",
+        "rdate": ""
+    },
+    "52000201": {
+        "name": "BarbarianKing052",
+        "rdate": ""
+    },
+    "52000202": {
+        "name": "BarbarianKing053",
+        "rdate": ""
+    },
+    "52000203": {
+        "name": "BarbarianKing054",
+        "rdate": ""
+    },
+    "52000204": {
+        "name": "BarbarianKing055",
+        "rdate": ""
+    },
+    "52000205": {
+        "name": "BarbarianKing056",
+        "rdate": ""
+    },
+    "52000206": {
+        "name": "BarbarianKing057",
+        "rdate": ""
+    },
+    "52000207": {
+        "name": "BarbarianKing058",
+        "rdate": ""
+    },
+    "52000208": {
+        "name": "BarbarianKing059",
+        "rdate": ""
+    },
+    "52000209": {
+        "name": "BarbarianKing060",
+        "rdate": ""
+    },
+    "52000210": {
+        "name": "ClashmasQueen",
+        "rdate": ""
+    },
+    "52000211": {
+        "name": "FireQueen",
+        "rdate": ""
+    },
+    "52000212": {
+        "name": "LNY25Queen",
+        "rdate": ""
+    },
+    "52000213": {
+        "name": "MilitaryQueen",
+        "rdate": ""
+    },
+    "52000214": {
+        "name": "April25Queen",
+        "rdate": ""
+    },
+    "52000215": {
+        "name": "ArcherQueen046",
+        "rdate": ""
+    },
+    "52000216": {
+        "name": "ArcherQueen047",
+        "rdate": ""
+    },
+    "52000217": {
+        "name": "ArcherQueen048",
+        "rdate": ""
+    },
+    "52000218": {
+        "name": "ArcherQueen049",
+        "rdate": ""
+    },
+    "52000219": {
+        "name": "ArcherQueen050",
+        "rdate": ""
+    },
+    "52000220": {
+        "name": "ArcherQueen051",
+        "rdate": ""
+    },
+    "52000221": {
+        "name": "ArcherQueen052",
+        "rdate": ""
+    },
+    "52000222": {
+        "name": "ArcherQueen053",
+        "rdate": ""
+    },
+    "52000223": {
+        "name": "ArcherQueen054",
+        "rdate": ""
+    },
+    "52000224": {
+        "name": "ArcherQueen055",
+        "rdate": ""
+    },
+    "52000225": {
+        "name": "ArcherQueen056",
+        "rdate": ""
+    },
+    "52000226": {
+        "name": "ArcherQueen057",
+        "rdate": ""
+    },
+    "52000227": {
+        "name": "ArcherQueen058",
+        "rdate": ""
+    },
+    "52000228": {
+        "name": "ArcherQueen059",
+        "rdate": ""
+    },
+    "52000229": {
+        "name": "ArcherQueen060",
+        "rdate": ""
+    },
+    "52000230": {
+        "name": "ClashoweenWarden",
+        "rdate": ""
+    },
+    "52000231": {
+        "name": "TH17Warden",
+        "rdate": ""
+    },
+    "52000232": {
+        "name": "IceWarden",
+        "rdate": ""
+    },
+    "52000233": {
+        "name": "LNY25Warden",
+        "rdate": ""
+    },
+    "52000234": {
+        "name": "MilitaryWarden",
+        "rdate": ""
+    },
+    "52000235": {
+        "name": "April25Warden",
+        "rdate": ""
+    },
+    "52000236": {
+        "name": "GrandWarden037",
+        "rdate": ""
+    },
+    "52000237": {
+        "name": "GrandWarden038",
+        "rdate": ""
+    },
+    "52000238": {
+        "name": "GrandWarden039",
+        "rdate": ""
+    },
+    "52000239": {
+        "name": "GrandWarden040",
+        "rdate": ""
+    },
+    "52000240": {
+        "name": "GrandWarden041",
+        "rdate": ""
+    },
+    "52000241": {
+        "name": "GrandWarden042",
+        "rdate": ""
+    },
+    "52000242": {
+        "name": "GrandWarden043",
+        "rdate": ""
+    },
+    "52000243": {
+        "name": "GrandWarden044",
+        "rdate": ""
+    },
+    "52000244": {
+        "name": "GrandWarden045",
+        "rdate": ""
+    },
+    "52000245": {
+        "name": "GrandWarden046",
+        "rdate": ""
+    },
+    "52000246": {
+        "name": "GrandWarden047",
+        "rdate": ""
+    },
+    "52000247": {
+        "name": "GrandWarden048",
+        "rdate": ""
+    },
+    "52000248": {
+        "name": "GrandWarden049",
+        "rdate": ""
+    },
+    "52000249": {
+        "name": "GrandWarden050",
+        "rdate": ""
+    },
+    "52000250": {
+        "name": "MinionHeroDefault",
+        "rdate": ""
+    },
+    "52000251": {
+        "name": "LNYPrince",
+        "rdate": ""
+    },
+    "52000252": {
+        "name": "MilitaryPrince",
+        "rdate": ""
+    },
+    "52000253": {
+        "name": "April25Prince",
+        "rdate": ""
+    },
+    "52000254": {
+        "name": "MinionHero004",
+        "rdate": ""
+    },
+    "52000255": {
+        "name": "MinionHero005",
+        "rdate": ""
+    },
+    "52000256": {
+        "name": "MinionHero006",
+        "rdate": ""
+    },
+    "52000257": {
+        "name": "MinionHero007",
+        "rdate": ""
+    },
+    "52000258": {
+        "name": "MinionHero008",
+        "rdate": ""
+    },
+    "52000259": {
+        "name": "MinionHero009",
+        "rdate": ""
+    },
+    "52000260": {
+        "name": "MinionHero010",
+        "rdate": ""
+    },
+    "52000261": {
+        "name": "MinionHero011",
+        "rdate": ""
+    },
+    "52000262": {
+        "name": "MinionHero012",
+        "rdate": ""
+    },
+    "52000263": {
+        "name": "MinionHero013",
+        "rdate": ""
+    },
+    "52000264": {
+        "name": "MinionHero014",
+        "rdate": ""
+    },
+    "52000265": {
+        "name": "MinionHero015",
+        "rdate": ""
+    },
+    "52000266": {
+        "name": "MinionHero016",
+        "rdate": ""
+    },
+    "52000267": {
+        "name": "MinionHero017",
+        "rdate": ""
+    },
+    "52000268": {
+        "name": "MinionHero018",
+        "rdate": ""
+    },
+    "52000269": {
+        "name": "MinionHero019",
+        "rdate": ""
+    },
+    "52000270": {
+        "name": "MinionHero020",
+        "rdate": ""
+    },
+    "52000271": {
+        "name": "LabAssistant",
+        "rdate": ""
+    },
+    "52000272": {
+        "name": "LabAssistantMenu",
+        "rdate": ""
+    },
+    "52000273": {
+        "name": "Alchemist",
+        "rdate": ""
+    },
+    "52000274": {
+        "name": "AlchemistMenu",
+        "rdate": ""
+    },
+    "52000275": {
+        "name": "PetBatDefault",
+        "rdate": ""
+    },
+    "52000276": {
+        "name": "PetBatBubbleDefault",
+        "rdate": ""
+    },
+    "52000277": {
+        "name": "APRIL25_TBRM",
+        "rdate": ""
+    },
+    "52000278": {
+        "name": "APRIL25_TBRM_2",
+        "rdate": ""
+    },
+    "52000279": {
+        "name": "APRIL25_BLTM",
+        "rdate": ""
+    },
+    "52000280": {
+        "name": "APRIL25_BLTM_DEF",
+        "rdate": ""
+    },
+    "52000281": {
+        "name": "APRIL25_RRBL_DEF",
+        "rdate": ""
+    },
+    "52000282": {
+        "name": "APRIL25_RRBL",
+        "rdate": ""
+    },
+    "52000283": {
+        "name": "APRIL25_RRBL_Alt",
+        "rdate": ""
+    },
+    "52000284": {
+        "name": "APRIL25_RRBL_Alt_DEF",
+        "rdate": ""
+    },
+    "52000285": {
+        "name": "BarbarianKing061",
+        "rdate": ""
+    },
+    "52000286": {
+        "name": "BarbarianKing062",
+        "rdate": ""
+    },
+    "52000287": {
+        "name": "BarbarianKing063",
+        "rdate": ""
+    },
+    "52000288": {
+        "name": "BarbarianKing064",
+        "rdate": ""
+    },
+    "52000289": {
+        "name": "BarbarianKing065",
+        "rdate": ""
+    },
+    "52000290": {
+        "name": "BarbarianKing066",
+        "rdate": ""
+    },
+    "52000291": {
+        "name": "BarbarianKing067",
+        "rdate": ""
+    },
+    "52000292": {
+        "name": "BarbarianKing068",
+        "rdate": ""
+    },
+    "52000293": {
+        "name": "BarbarianKing069",
+        "rdate": ""
+    },
+    "52000294": {
+        "name": "BarbarianKing070",
+        "rdate": ""
+    },
+    "52000295": {
+        "name": "RoyalChampion041",
+        "rdate": ""
+    },
+    "52000296": {
+        "name": "RoyalChampion042",
+        "rdate": ""
+    },
+    "52000297": {
+        "name": "RoyalChampion043",
+        "rdate": ""
+    },
+    "52000298": {
+        "name": "RoyalChampion044",
+        "rdate": ""
+    },
+    "52000299": {
+        "name": "RoyalChampion045",
+        "rdate": ""
+    },
+    "52000300": {
+        "name": "RoyalChampion046",
+        "rdate": ""
+    },
+    "52000301": {
+        "name": "RoyalChampion047",
+        "rdate": ""
+    },
+    "52000302": {
+        "name": "RoyalChampion048",
+        "rdate": ""
+    },
+    "52000303": {
+        "name": "RoyalChampion049",
+        "rdate": ""
+    },
+    "52000304": {
+        "name": "RoyalChampion050",
+        "rdate": ""
+    }
+}
