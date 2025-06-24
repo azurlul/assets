@@ -1,0 +1,346 @@
+{
+    "60000000": {
+        "name": "Home (Default)",
+        "rdate": "N/A"
+    },
+    "60000001": {
+        "name": "BB (Default)",
+        "rdate": "N/A"
+    },
+    "60000002": {
+        "name": "War (Default)",
+        "rdate": "N/A"
+    },
+    "60000003": {
+        "name": "NPC (Default)",
+        "rdate": "N/A"
+    },
+    "60000004": {
+        "name": "Clashy Constructs",
+        "rdate": "6.99$ June 2020"
+    },
+    "60000005": {
+        "name": "Pirate",
+        "rdate": "6.99$ Nov 2020 / Nov 2022"
+    },
+    "60000006": {
+        "name": "Epic Winter",
+        "rdate": "6.99$ Dec 2020"
+    },
+    "60000007": {
+        "name": "CNY 2021 (Hog Mountain)",
+        "rdate": "6.99$ Feb 2021"
+    },
+    "60000008": {
+        "name": "Jungle",
+        "rdate": "Free"
+    },
+    "60000009": {
+        "name": "Epic Jungle",
+        "rdate": "6.99$ Apr 2021"
+    },
+    "60000010": {
+        "name": "War Make (Inferno Town)",
+        "rdate": "6.99$ June 2021"
+    },
+    "60000011": {
+        "name": "Festival (9th Clashiversary)",
+        "rdate": "6.99$ Aug 2021"
+    },
+    "60000012": {
+        "name": "Pumpkin Graveyard",
+        "rdate": "6.99$ Oct 2021"
+    },
+    "60000013": {
+        "name": "Snow Day",
+        "rdate": "6.99$ Dec 2021"
+    },
+    "60000014": {
+        "name": "Tiger Mountain",
+        "rdate": "6.99$ Jan-Feb 2022 / Nov 2022"
+    },
+    "60000015": {
+        "name": "Pixel",
+        "rdate": "Free or 6.99$ Aug 2022"
+    },
+    "60000016": {
+        "name": "Primal",
+        "rdate": "6.99$ Mar 2022 / Nov 2022"
+    },
+    "60000017": {
+        "name": "Shadow",
+        "rdate": "6.99$ Apr 2022 / Nov 2022"
+    },
+    "60000018": {
+        "name": "Royale",
+        "rdate": "6.99$ May 2022"
+    },
+    "60000019": {
+        "name": "Summer",
+        "rdate": "6.99$ June 2022"
+    },
+    "60000020": {
+        "name": "10th Anniversary",
+        "rdate": "6.99$ Aug 2022"
+    },
+    "60000021": {
+        "name": "Clash Fest",
+        "rdate": "6.99$ Sep 2022"
+    },
+    "60000022": {
+        "name": "Magic",
+        "rdate": "Free"
+    },
+    "60000023": {
+        "name": "Epic Magic",
+        "rdate": "6.99$ Oct 2022"
+    },
+    "60000024": {
+        "name": "Capital Core (Classic)",
+        "rdate": "N/A"
+    },
+    "60000025": {
+        "name": "Capital_layout_2a",
+        "rdate": "N/A"
+    },
+    "60000026": {
+        "name": "Capital_layout_2b",
+        "rdate": "N/A"
+    },
+    "60000027": {
+        "name": "Capital_layout_2c",
+        "rdate": "N/A"
+    },
+    "60000028": {
+        "name": "CapitalCore_Raid",
+        "rdate": "N/A"
+    },
+    "60000029": {
+        "name": "Capital_layout_2d",
+        "rdate": "N/A"
+    },
+    "60000030": {
+        "name": "Capital_layout_2a_Raid",
+        "rdate": "N/A"
+    },
+    "60000031": {
+        "name": "Capital_layout_2b_Raid",
+        "rdate": "N/A"
+    },
+    "60000032": {
+        "name": "Capital_layout_2c_Raid",
+        "rdate": "N/A"
+    },
+    "60000033": {
+        "name": "Capital_layout_2d_Raid",
+        "rdate": "N/A"
+    },
+    "60000034": {
+        "name": "Spooky",
+        "rdate": "6.99$ Oct 2022"
+    },
+    "60000035": {
+        "name": "Clashmas 2022 (Jolly)",
+        "rdate": "6.99$ Dec 2022"
+    },
+    "60000036": {
+        "name": "LNY 2023 (Magic Theatre)",
+        "rdate": "6.99$ Jan 2023"
+    },
+    "60000037": {
+        "name": "Colorfest 2023 (Painter)",
+        "rdate": "Free Mar 2023"
+    },
+    "60000038": {
+        "name": "BB Stage2 (Caves)",
+        "rdate": "Free"
+    },
+    "60000039": {
+        "name": "BB (Background)",
+        "rdate": "N/A"
+    },
+    "60000040": {
+        "name": "Dark Ages",
+        "rdate": "9.99$ Apr 2023"
+    },
+    "60000041": {
+        "name": "Books Of Clash",
+        "rdate": "6.99$ June 2023 / Nov 2023"
+    },
+    "60000042": {
+        "name": "War Arena CWL23",
+        "rdate": "Free"
+    },
+    "60000043": {
+        "name": "Goblin Caves",
+        "rdate": "9.99$ July 2023"
+    },
+    "60000044": {
+        "name": "Capital_layout_2c_1",
+        "rdate": "N/A"
+    },
+    "60000045": {
+        "name": "Capital_layoutBuildet_2c_1_Raid",
+        "rdate": "N/A"
+    },
+    "60000046": {
+        "name": "Chess",
+        "rdate": "6.99$ Sep 2023"
+    },
+    "60000047": {
+        "name": "BB Crystal Caverns",
+        "rdate": "6.99$ July 2023"
+    },
+    "60000048": {
+        "name": "Clashiversary 2023 (Future)",
+        "rdate": "6.99$ Aug 2023"
+    },
+    "60000049": {
+        "name": "Ghost",
+        "rdate": "6.99$ Oct 2023"
+    },
+    "60000050": {
+        "name": "NPC (Default 2)",
+        "rdate": "N/A"
+    },
+    "60000051": {
+        "name": "NPC (Default 3)",
+        "rdate": "N/A"
+    },
+    "60000052": {
+        "name": "War Champion",
+        "rdate": "6.99$ Nov 2023"
+    },
+    "60000053": {
+        "name": "Gingerbread",
+        "rdate": "6.99$ Dec 2023"
+    },
+    "60000054": {
+        "name": "BB Of the North",
+        "rdate": "6.99$ Jan 2024"
+    },
+    "60000055": {
+        "name": "LNY 2024 (Dragon Palace)",
+        "rdate": "6.99$ Feb 2024"
+    },
+    "60000056": {
+        "name": "Space",
+        "rdate": "6.99$ Mar 2024"
+    },
+    "60000057": {
+        "name": "Egypt",
+        "rdate": "6.99$ Aug 2024"
+    },
+    "60000058": {
+        "name": "Clashball 2024",
+        "rdate": "6.99$ May 2024"
+    },
+    "60000059": {
+        "name": "Wild West",
+        "rdate": "6.99$ June 2024"
+    },
+    "60000060": {
+        "name": "Clash Games",
+        "rdate": "6.99$ July 2024"
+    },
+    "60000061": {
+        "name": "Anime",
+        "rdate": "6.99$ Aug 2024"
+    },
+    "60000062": {
+        "name": "Crossover",
+        "rdate": "ID Points Dec 2024"
+    },
+    "60000063": {
+        "name": "RPG (Clash of Dragons)",
+        "rdate": "32.99$ Sep 2024"
+    },
+    "60000064": {
+        "name": "Clashoween 2024 (Doomed)",
+        "rdate": "6.99$ Oct 2024"
+    },
+    "60000065": {
+        "name": "TH17 Scenery (Justice)",
+        "rdate": "6.99$ Nov 2024"
+    },
+    "60000066": {
+        "name": "War Machine",
+        "rdate": "6.99$ Nov 2024"
+    },
+    "60000067": {
+        "name": "Clashmas 2024 (Toy Workshop)",
+        "rdate": "6.99$ Dec 2024"
+    },
+    "60000068": {
+        "name": "Fire and Ice",
+        "rdate": "4.99$ or 9.99$ Jan 2025"
+    },
+    "60000069": {
+        "name": "VillageBackground054",
+        "rdate": "N/A"
+    },
+    "60000070": {
+        "name": "LNY 2025 (Year of the Snake)",
+        "rdate": "32.99$ Feb 2025"
+    },
+    "60000071": {
+        "name": "Action Heroes (Military)",
+        "rdate": "6.99$ Mar 2025"
+    },
+    "60000072": {
+        "name": "April 2025 (ClashMania)",
+        "rdate": "6.99$ Apr 2025"
+    },
+    "60000073": {
+        "name": "Japan 2025 (High Seas)",
+        "rdate": "6.99$ May 2025"
+    },
+    "60000074": {
+        "name": "Dark Days",
+        "rdate": "6.99$ June 2025"
+    },
+    "60000075": {
+        "name": "VillageBackground060",
+        "rdate": "N/A"
+    },
+    "60000076": {
+        "name": "VillageBackground061",
+        "rdate": "N/A"
+    },
+    "60000077": {
+        "name": "VillageBackground062",
+        "rdate": "N/A"
+    },
+    "60000078": {
+        "name": "VillageBackground063",
+        "rdate": "N/A"
+    },
+    "60000079": {
+        "name": "VillageBackground064",
+        "rdate": "N/A"
+    },
+    "60000080": {
+        "name": "VillageBackground065",
+        "rdate": "N/A"
+    },
+    "60000081": {
+        "name": "VillageBackground066",
+        "rdate": "N/A"
+    },
+    "60000082": {
+        "name": "VillageBackground067",
+        "rdate": "N/A"
+    },
+    "60000083": {
+        "name": "VillageBackground068",
+        "rdate": "N/A"
+    },
+    "60000084": {
+        "name": "VillageBackground069",
+        "rdate": "N/A"
+    },
+    "60000085": {
+        "name": "VillageBackground070",
+        "rdate": "N/A"
+    }
+}
